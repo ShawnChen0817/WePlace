@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Models
+  m_EditorClassIdentifier: 
+  m_GroupName: Models
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3e1bbbb04b8d90740a0ce62f0ba7dc5d
+  m_SerializeEntries:
+  - m_GUID: 00a47fa56c7142e4da8ba8d722236ced
+    m_Address: Assets/AddressableAssets/SofaItems/Sofa.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sofa
+  - m_GUID: a011d85b0d74a26478676a499a86dd0e
+    m_Address: Assets/AddressableAssets/CabinetItems/Cabinet.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cabinet
+  - m_GUID: e3b1acf7dabefc94d944bda30937181e
+    m_Address: Assets/AddressableAssets/TableItems/Table.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Table
+  - m_GUID: c4b5a8831d6c390448eb7fdc0d07c39e
+    m_Address: Assets/AddressableAssets/ChairItems/Chair.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chair
+  - m_GUID: 0bbf1f291fe17b74c9212caaf4ba854e
+    m_Address: Assets/AddressableAssets/TableItems/dining table.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Table
+  - m_GUID: 54262534c190ff845b250bbee47275d3
+    m_Address: Assets/AddressableAssets/SofaItems/room sofa.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sofa
+  - m_GUID: 8b656f50aa5044f42a87c0cdde6463fd
+    m_Address: Assets/AddressableAssets/ChairItems/test.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - test
+    - Chair
+  - m_GUID: a5b9df360e4f9c9479c5c9a6f6f57256
+    m_Address: Assets/AddressableAssets/ChairItems/sofa chair.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chair
+  - m_GUID: 649d40e2f107a0742ad543810d5100f9
+    m_Address: Assets/AddressableAssets/SofaItems/ikea sofa(yellow).asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sofa
+  - m_GUID: 240a58f1f45daf84585c0a58dd641eed
+    m_Address: Assets/AddressableAssets/SofaItems/ikea sofa(green).asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sofa
+  - m_GUID: c7a68d802086f37418a92080cd94b4fb
+    m_Address: Assets/AddressableAssets/ChairItems/chair stool.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Chair
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 05990da5abc0a4c4c91d931e7c150304, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a3e18389b75349d49a714565e01038be, type: 2}
+    - {fileID: 11400000, guid: ac77189db719341489166b96b9bede4c, type: 2}

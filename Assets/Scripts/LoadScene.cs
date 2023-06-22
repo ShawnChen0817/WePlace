@@ -1,0 +1,19 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class LoadScene : MonoBehaviour {
+
+	[SerializeField]
+	string sceneName;
+	public void ChangeScene()
+	{
+		Invoke("Load",0.65f);
+	}
+	public void Load()
+	{
+		SceneManager.LoadScene (sceneName);
+	}
+
+}
