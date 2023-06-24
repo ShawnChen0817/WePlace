@@ -27,6 +27,13 @@
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/store_list.png" width=100px> | 商品頁(列表模式) | 家具類列表 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_detail.png" width=100px> | 商品細項 | 顯示此家具類別所有商品 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_detail2.png" width=100px> | 商品詳細資料 | 顯示家具商品資訊 |
+
+- AR展示介面
+
+| 介面 | 名稱 | 敘述 |
+|------|------|-----|
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/操作介面.png" width=100px> | AR展示介面 | 可進行家具展示與操作互動 |
+
 #### icon介紹
 - 首頁
 
