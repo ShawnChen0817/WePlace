@@ -14,45 +14,6 @@
 | 商品細項 | 商品詳細資料 | 購物清單 | AR展示 | 相簿 | 問題回報 |
 ----------|------------|---------|--------|------|----------|
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_detail.png" width=200px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_detail2.png" width=200px>| <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/%E8%B3%BC%E7%89%A9%E6%B8%85%E5%96%AEpng.png" width=205px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/%E6%93%8D%E4%BD%9C%E4%BB%8B%E9%9D%A2.png" width=200px> |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/photo2.png" width=180px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/problem%20report.png" width=195px>|
-- 開始畫面
-
-| 介面 | 名稱 | 敘述 |
-|------|------|-----|
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png" width=100px> | 開始畫面 | 等待導入至主畫面 |
-
-- 主畫面
-
-| 介面 | 名稱 | 敘述 |
-|------|------|-----|
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/main.png" width=100px> | 主畫面 | 包含多種UI，可依照UI介紹導入至需要的介面 |
-
-- 商品介面
-
-| 介面 | 名稱 | 敘述 |
-|------|------|-----|
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product.png" width=100px> | 商品頁(圖片模式) | 家具類列表 |
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/store_list.png" width=100px> | 商品頁(列表模式) | 家具類列表 |
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_detail.png" width=100px> | 商品細項 | 顯示此家具類別所有商品 |
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_detail2.png" width=100px> | 商品詳細資料 | 顯示家具商品資訊 |
-
-- AR展示介面
-
-| 介面 | 名稱 | 敘述 |
-|------|------|-----|
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/%E6%93%8D%E4%BD%9C%E4%BB%8B%E9%9D%A2.png" width=100px> | AR展示介面 | 可進行家具展示與操作互動 |
-
-- 相簿
-
-| 介面 | 名稱 | 敘述 |
-|------|------|-----|
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/photo2.png" width=100px> | 相簿介面 | 操作中進行的商品擺設快照存至於此 |
-
-- 問題回報
-
-| 介面 | 名稱 | 敘述 |
-|------|------|-----|
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/problem%20report.png" width=100px> | 問題回報介面 | 若對於操作疑慮或有問題時，可進入於此並回報問題 |
-
 #### icon介紹
 - 首頁
 
