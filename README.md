@@ -45,8 +45,8 @@
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/camera.png" width=70px> | 拍照 | 進行商品擺設快照 | 
 
 - #### AR展示操作
-Step1. 選取家具並按下AR展示icon
-Step2. 按下掃描鍵
-Step3. 進行平面掃描
-Step4. 放置家具
+Step1. 選取家具並按下AR展示icon  
+Step2. 按下掃描鍵  
+Step3. 進行平面掃描  
+Step4. 放置家具  
 
