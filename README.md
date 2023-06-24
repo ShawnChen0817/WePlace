@@ -12,7 +12,9 @@
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png" width=100px> | 開始畫面 | 等待導入至主畫面 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/main.png" width=100px> | 主畫面 | 包含多種UI，可依照UI介紹導入至需要的介面 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product.png" width=100px> | 商品頁(圖片模式) | 家具類列表 |
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_list.png" width=100px> | 商品頁(列表模式) | 家具類列表 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/store_list.png" width=100px> | 商品頁(列表模式) | 家具類列表 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_detail.png" width=100px> | 商品細項 | 顯示此家具類別所有商品 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_detail2.png" width=100px> | 商品詳細資料 | 顯示家具商品資訊 |
 #### icon介紹
 - 首頁
 
@@ -42,7 +44,4 @@
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/view.png" width=70px> | 平面可視化 | 顯示掃描後的平面 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/not_view.png" width=70px> | 平面不可視化 | 隱藏掃描後的平面 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/camera.png" width=70px> | 拍照 | 進行商品擺設快照 | 
-
-#### AR展示操作流程介紹
-進入AR展示介面後，即可進行商品展示與互動
 
