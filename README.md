@@ -18,7 +18,7 @@
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/itemList.png" width=70px> | 商品統計清單 | 導入至商品統計頁面 | 
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/itemList.png" width=70px> | 商品統計清單 | 導入至商品統計頁面 |
 
-- 商品頁
+- 商品頁  
 | icon | 功能名稱 | 功能介紹 |
 |----|---------|----------|
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/chart.png" width=70px> | 圖像模式 | 切換商品類別顯示 |
