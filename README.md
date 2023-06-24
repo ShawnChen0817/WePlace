@@ -8,14 +8,13 @@
 > ### APP介紹
 -   首頁
 
-| UI | 功能名稱 | 功能介紹 | 
+| UI | 功能名稱 | 功能介紹 |   
 |----|---------|----------|
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/notice.png" width=70px> | 操作須知 | 導入至操作須知頁面 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/store.png" width=70px> | 商店 | 導入至商店介面 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/question.png" width=70px> | 問題回報| 導入至問題回報介面 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/album.png" width=70px> | 相簿 | 導入至相簿介面 |
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/itemList.png" width=70px> | 商品統計清單 | 導入至商品統計頁面 |
-| UI | 功能名稱 | 功能介紹 |
-|----|---------|----------|
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/itemList.png" width=70px> | 商品統計清單 | 導入至商品統計頁面 |  
+
   
 
