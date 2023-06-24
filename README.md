@@ -26,3 +26,13 @@
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/list_mode.png" width=70px> | 列表模式 | 切換商品類別顯示 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/webURL.png" width=70px> | 商品外部連結 | 導入指定商品網站 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/ar_btn.png" width=70px> | AR展示 | 導入至AR展示介面 |
+
+- AR展示介面
+
+| icon | 功能名稱 | 功能介紹 |
+|----|---------|----------|
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/scan.png" width=70px> | 掃描 | 進行平面掃描 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/view.png" width=70px> | 平面可視化 | 顯示掃描後的平面 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/not_view.png" width=70px> | 平面不可視化 | 隱藏掃描後的平面 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/camera.png" width=70px> | 拍照 | 進行商品擺設快照 | 
+
