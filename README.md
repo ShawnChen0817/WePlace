@@ -21,5 +21,8 @@
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/itemList.png" width=70px> | 商品統計清單 | 導入至商品統計頁面 | 
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/itemList.png" width=70px> | 商品統計清單 | 導入至商品統計頁面 |
 
+- 商品介紹頁
+<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product.png" width=150px>
+
   
 
