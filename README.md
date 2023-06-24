@@ -36,3 +36,6 @@
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/not_view.png" width=70px> | 平面不可視化 | 隱藏掃描後的平面 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/camera.png" width=70px> | 拍照 | 進行商品擺設快照 | 
 
+#### AR展示操作流程介紹
+進入AR展示介面後，即可進行商品展示與互動
+
