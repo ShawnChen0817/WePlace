@@ -11,6 +11,8 @@
 |------|------|-----|
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png" width=100px> | 開始畫面 | 等待導入至主畫面 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/main.png" width=100px> | 主畫面 | 包含多種UI，可依照UI介紹導入至需要的介面 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product.png" width=100px> | 商品頁(圖片模式) | 家具類列表 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_list.png" width=100px> | 商品頁(列表模式) | 家具類列表 |
 #### icon介紹
 - 首頁
 
