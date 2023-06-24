@@ -44,7 +44,7 @@
 
 | 介面 | 名稱 | 敘述 |
 |------|------|-----|
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/problem_report.png" width=100px> | 問題回報介面 | 若對於操作疑慮或有問題時，可進入於此並回報問題 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/problem%20report.png" width=100px> | 問題回報介面 | 若對於操作疑慮或有問題時，可進入於此並回報問題 |
 
 #### icon介紹
 - 首頁
