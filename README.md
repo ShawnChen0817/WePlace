@@ -11,7 +11,6 @@
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png" width=200px>   
 
  #### 2.首頁  
- 包含多種功能  
  <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/notice.png" width=50px>   
   
 
