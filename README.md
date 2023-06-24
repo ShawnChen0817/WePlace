@@ -12,7 +12,7 @@
 
  ##### 首頁  
  包含多種功能  
- <img src="[https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png](https://github.com/ShawnChen0817/ImgDataBase/blob/main/notice.png)" width=100px>   
+ <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/notice.png" width=100px>   
 、首頁、操作介紹頁、商品介面、商品種類搜尋、商品統計頁、功能操作頁、相簿、問題回報介面    
 * 開始介面  
 
