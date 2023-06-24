@@ -7,9 +7,9 @@
 於是我們由家具購物方面發想，若是能夠整合各大家具商的產品於APP之中，使商品能夠一目了然，更以AR的方式進行家具的展示、互動操作，甚至實現居家布置的效果，如此一來，不僅能減少顧客的消費時間成本，更能因應數位時代的來臨，迎合使用各種消費方式的客戶，達到真正的便利性。
 > ### APP介紹
 #### UI介面介紹
-| 開始畫面 | 主畫面 | 操作須知 | 商品頁 | 商品統計 | AR展示 | 相簿 | 問題回報 |
-|---------|--------|---------|-------|---------|--------|------|---------|
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png" width=100px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/main.png" width=100px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/%E6%93%8D%E4%BD%9C%E9%A0%88%E7%9F%A5%E4%BB%8B%E9%9D%A2.png" width=100px>
+| 開始畫面 | 主畫面 | 操作須知 | 商品頁(圖像) | 商品頁(列表) | 商品細項 | 商品詳細資料 | 商品統計 | AR展示 | 相簿 | 問題回報 |
+|---------|--------|---------|-------------|-------------|----------|------------|---------|--------|------|---------|
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png" width=100px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/main.png" width=100px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/%E6%93%8D%E4%BD%9C%E9%A0%88%E7%9F%A5%E4%BB%8B%E9%9D%A2.png" width=100px>|
 - 開始畫面
 
 | 介面 | 名稱 | 敘述 |
