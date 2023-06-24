@@ -24,3 +24,5 @@
 |----|---------|----------|
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/chart.png" width=70px> | 圖像模式 | 切換商品類別顯示 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/list_mode.png" width=70px> | 列表模式 | 切換商品類別顯示 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/webURL.png" width=70px> | 商品外部連結 | 導入指定商品網站 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/ar_btn.png" width=70px> | AR展示 | 導入至AR展示介面 |
