@@ -8,7 +8,7 @@
 > ### APP介紹
 | 畫面 | 功能鍵 | 敘述 |
 |------|-------|------|
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/Weplace_start.png" width=70px>|無|進入畫面|
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png" width=70px>|無|進入畫面|
 
 -   首頁
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/main.png" width=300px>
