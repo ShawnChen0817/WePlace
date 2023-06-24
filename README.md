@@ -10,6 +10,6 @@
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png" width=200px>   
 
  #### 2.首頁  
- <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/notice.png" width=50px>   
+ <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/notice.png" width=50px> 操作須知 
   
 
