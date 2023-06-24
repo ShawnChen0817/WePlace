@@ -1,2 +1,3 @@
-# WePlace
-Graduated project of university
+# 利用擴增實境實現居家內布置  
+> APP name: `WePlace
+
