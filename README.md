@@ -1,5 +1,5 @@
 # 利用擴增實境實現居家布置
-> ### logo
+> ### Logo
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace.png" width=70px> 
  
 > ### 設計理念
