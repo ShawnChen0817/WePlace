@@ -38,9 +38,15 @@
 3.AR展示介面
 
 | icon | 功能名稱 | 功能介紹 |
-|----|---------|----------|
+|----|---------|-----------|
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/scan.png" width=70px> | 掃描 | 進行平面掃描 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/view.png" width=70px> | 平面可視化 | 顯示掃描後的平面 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/not_view.png" width=70px> | 平面不可視化 | 隱藏掃描後的平面 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/camera.png" width=70px> | 拍照 | 進行商品擺設快照 | 
+
+- #### AR展示操作
+Step1. 選取家具並按下AR展示icon
+Step2. 按下掃描鍵
+Step3. 進行平面掃描
+Step4. 放置家具
 
