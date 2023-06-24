@@ -7,9 +7,9 @@
 於是我們由家具購物方面發想，若是能夠整合各大家具商的產品於APP之中，使商品能夠一目了然，更以AR的方式進行家具的展示、互動操作，甚至實現居家布置的效果，如此一來，不僅能減少顧客的消費時間成本，更能因應數位時代的來臨，迎合使用各種消費方式的客戶，達到真正的便利性。
 > ### APP介紹
 * #### *UI介面*  
-開始介面、首頁、操作介紹頁、商品介面、商品種類搜尋、商品統計頁、功能操作頁、相簿、問題回報介面
+開始介面、首頁、操作介紹頁、商品介面、商品種類搜尋、商品統計頁、功能操作頁、相簿、問題回報介面  
 ** 開始介面  
-<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png" width=70px>   
+<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png" width=100px>   
 
 * #### *主要功能*
 家具展示與互動、拍照、商品數量統計、購物連結專區、搜尋、問題回報
