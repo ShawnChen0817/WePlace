@@ -15,7 +15,7 @@
 ----------|------------|---------|--------|------|----------|
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_detail.png" width=200px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_detail2.png" width=200px>| <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/%E8%B3%BC%E7%89%A9%E6%B8%85%E5%96%AEpng.png" width=205px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/%E6%93%8D%E4%BD%9C%E4%BB%8B%E9%9D%A2.png" width=200px> |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/photo2.png" width=180px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/problem%20report.png" width=195px>|
 - #### icon介紹
- - 首頁
+1.首頁
 
 | icon | 功能名稱 | 功能介紹 |
 |----|---------|----------|
@@ -26,7 +26,7 @@
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/itemList.png" width=70px> | 商品統計清單 | 導入至商品統計頁面 | 
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/itemList.png" width=70px> | 商品統計清單 | 導入至商品統計頁面 |
 
-- 商品頁
+2.商品頁
 
 | icon | 功能名稱 | 功能介紹 |
 |----|---------|----------|
@@ -35,7 +35,7 @@
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/webURL.png" width=70px> | 商品外部連結 | 導入指定商品網站 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/ar_btn.png" width=70px> | AR展示 | 導入至AR展示介面 |
 
-- AR展示介面
+3.AR展示介面
 
 | icon | 功能名稱 | 功能介紹 |
 |----|---------|----------|
