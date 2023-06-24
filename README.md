@@ -9,7 +9,8 @@
 #### UI介面介紹
 | 介面 | 名稱 | 敘述 |
 |------|------|-----|
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png" width=70px> | 開始畫面 | 等待導入至主畫面 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png" width=100px> | 開始畫面 | 等待導入至主畫面 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/main.png" width=100px> | 主畫面 | 包含多種UI，可依照UI介紹導入至需要的介面 |
 #### icon介紹
 - 首頁
 
