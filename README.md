@@ -46,5 +46,5 @@
 
 - #### AR展示操作
 
-[詳細操作流程]:https://drive.google.com/file/d/1P9JPjlPqEqaMUrbxjL5q_iAgI-1nW_2P/view?usp=drive_link
+[詳細操作流程](https://drive.google.com/file/d/1P9JPjlPqEqaMUrbxjL5q_iAgI-1nW_2P/view?usp=drive_link)
 
