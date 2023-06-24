@@ -11,8 +11,9 @@
 |---------|--------|---------|-------------|-------------|
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/WePlace_start.png" width=220px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/main.png" width=200px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/%E6%93%8D%E4%BD%9C%E9%A0%88%E7%9F%A5%E4%BB%8B%E9%9D%A2.png" width=210px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product.png" width=200px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/store_list.png" width=200px>|
 
-| 商品細項 | 商品詳細資料 | 商品統計 | AR展示 | 相簿 | 問題回報 |
-----------|------------|---------|--------|------|---------|
+| 商品細項 | 商品詳細資料 | 購物清單 | AR展示 | 相簿 | 問題回報 |
+----------|------------|---------|--------|------|----------|
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_detail.png" width=200px>|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/product_detail2.png" width=200px>| <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/%E8%B3%BC%E7%89%A9%E6%B8%85%E5%96%AEpng.png" width=200px>
 - 開始畫面
 
 | 介面 | 名稱 | 敘述 |
