@@ -32,7 +32,7 @@
 
 | 介面 | 名稱 | 敘述 |
 |------|------|-----|
-|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/操作介面.png" width=100px> | AR展示介面 | 可進行家具展示與操作互動 |
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/%E6%93%8D%E4%BD%9C%E4%BB%8B%E9%9D%A2.png" width=100px> | AR展示介面 | 可進行家具展示與操作互動 |
 
 #### icon介紹
 - 首頁
