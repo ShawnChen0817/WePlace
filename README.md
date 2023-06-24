@@ -8,5 +8,6 @@
 > ### APP介紹
 | UI | 功能名稱 | 功能介紹 |
 |----|---------|----------|
+|<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/notice.png" width=70px> | 操作須知 | 導入至操作頁面 |
   
 
