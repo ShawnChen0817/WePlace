@@ -44,7 +44,7 @@
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/not_view.png" width=70px> | 平面不可視化 | 隱藏掃描後的平面 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/camera.png" width=70px> | 拍照 | 進行商品擺設快照 | 
 
-- #### AR展示操作
+- #### APP展示與操作
 
 [詳細操作流程](https://drive.google.com/file/d/1P9JPjlPqEqaMUrbxjL5q_iAgI-1nW_2P/view?usp=drive_link)
 
