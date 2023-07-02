@@ -25,7 +25,7 @@
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/album.png" width=70px> | 相簿 | 導入至相簿介面 |
 |<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/itemList.png" width=70px> | 商品統計清單 | 導入至商品統計頁面 | 
 
-2.商品頁
+2.商品介面
 
 | icon | 功能名稱 | 功能介紹 |
 |----|---------|----------|
